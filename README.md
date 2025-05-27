@@ -99,6 +99,11 @@ https://runeblaster.io
 
 Fully self-custodial batch minting tool for Runes. Minting Runes done the right way.
 
+### 🪄 Rune Blaster: DIY
+https://diy.runeblaster.io/
+
+Fire off up to 50,000 Rune mint transactions in as little as 2 blocks.
+
 ### 🪄 Magic Pool
 https://magicpool.space
 
