@@ -86,6 +86,11 @@ https://inscribe.dev/batch
 - Same self-custody ethos
 - UTXO selection for rare sats
 
+### 🎨 Inscribe: BRC20 Bulk Minting
+https://inscribe.dev/brc20
+
+Non-custodial BRC20 bulk minting tool intended for power users.
+
 ### 🔮 Alkane
 https://alkane.dev
 
