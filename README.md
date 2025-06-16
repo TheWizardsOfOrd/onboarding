@@ -98,6 +98,7 @@ A Rune-like smart contract metaprotocol by [Airhead](https://x.com/AirheadFun). 
 - Contract invocation (with private mempool support)
 - Transferring Alkanes
 - Splitting and unmerging Alkanes
+- Mempool Sniping
 
 ### 🪄 Rune Blaster
 https://runeblaster.io
