@@ -100,6 +100,11 @@ A Rune-like smart contract metaprotocol by [Airhead](https://x.com/AirheadFun). 
 - Splitting and unmerging Alkanes
 - Mempool Sniping
 
+### 🔐 Timelock.space
+https://timelock.space
+
+Self-custodial timelocking for Inscriptions made easy and approachable
+
 ### 🪄 Rune Blaster
 https://runeblaster.io
 
