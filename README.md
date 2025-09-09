@@ -61,6 +61,11 @@ https://swap.art
 
 Non-custodial Inscriptions Trading for collectors
 
+### 🤝 Ordinals Scrapyard
+https://tax.dev
+
+Sell any inscription for 1 SAT and realize the loss
+
 ### 🎨 Inscribe
 https://inscribe.dev
 
