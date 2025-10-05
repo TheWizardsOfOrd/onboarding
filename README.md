@@ -56,6 +56,11 @@ https://tx.dev/op_return
 - Create transactions with arbitrary data in OP_RETURN
 - Support for MARA Slipstream broadcasting
 
+### ⚙️ PSBT
+https://psbt.io
+
+Advanced tool for signing Bitcoin PSBTs with your ordinals compatible browser wallet
+
 ### 🤝 P2P Inscriptions Swap
 https://swap.art
 
